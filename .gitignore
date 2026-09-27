@@ -4,3 +4,4 @@ __pycache__/
 data/
 static/uploads/*
 !static/uploads/.gitkeep
+Claude outputs/

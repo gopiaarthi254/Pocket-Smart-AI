@@ -3,7 +3,7 @@
 AI-powered budget planner for **Home Interiors**, **Party Planning** and **Jewelry** (with outfit-image analysis),
 built with **FastAPI + Google Gemini + Jinja2 (HTML/CSS/JS)**.
 
-> A printable version of this setup guide is also available: **[PocketSmart_AI_Setup_Guide.docx](PocketSmart_AI_Setup_Guide.docx)**
+> A printable version of this setup guide is also available: **[documentation/PocketSmart_AI_Setup_Guide.docx](documentation/PocketSmart_AI_Setup_Guide.docx)**
 
 ---
 
@@ -113,7 +113,7 @@ Pocket-Smart-AI/
 ├── models.py           Input/output data models (Pydantic)
 ├── requirements.txt    Python packages
 ├── .env.example        Template for the .env file
-├── PocketSmart_AI_Setup_Guide.docx   Printable setup guide
+├── documentation/      PocketSmart_AI_Setup_Guide.docx (printable setup guide)
 ├── static/             styles.css, script.js, uploads/
 ├── templates/          HTML pages (Jinja2)
 └── data/               users.json + history.json (created automatically, not on GitHub)
